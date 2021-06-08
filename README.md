@@ -69,7 +69,7 @@ In comparison to other schools, after replacing the 9th graders with NaNs Thomas
 
 As we can see above, it reached the 2nd place out of the 15 schools in the district with a overall passing percentage of 90.63%. This meant that 90.6% of the entire high school (excluding 9th graders because of academic dishonesty) had a score above 70 for both math and reading. 
 
-- How does replacing the ninth-grade scores affect the following:
+#### How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
 
 ![Screen Shot 2021-06-07 at 11 28 01 PM](https://user-images.githubusercontent.com/83378141/121118599-20b4ec00-c7e8-11eb-8789-0b37b119357f.png)
