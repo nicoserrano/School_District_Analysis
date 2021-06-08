@@ -57,7 +57,7 @@ As we can observe, there is a slight difference in the results for the district 
 *New School Summary:*
 ![Screen Shot 2021-06-06 at 7 17 42 PM](https://user-images.githubusercontent.com/83378141/120943341-449b0380-c6fc-11eb-8ed6-5dbd61a39725.png)
 
-As it can be seen, the NaN generated a significant increase in the passing percentages for math, reading, and overall. This was due to the fact that 9th graders at Thomas High School had a considerably high amount of students who didn't pass the math or reading exams. Even though there was academic dishonesty, 9th graders where making that percentage of students who passed remain very low in the 60s %. After their scores got replaced with NaN, and therefore dismissed in the analysis, the percentage of passing students increased up to the 90s %. 
+As it can be seen, the NaN generated a significant increase in the passing percentages for math, reading, and overall. This was due to the fact that 9th graders at Thomas High School had a considerably high amount of students who didn't pass the math or reading exams. Even though there was academic dishonesty, 9th graders were making that percentage of students who passed remain very low in the 60s %. After their scores got replaced with NaN, and therefore dismissed in the analysis, the percentage of passing students increased up to the 90s % as the rest of the school performed mostly above the passing grade of 70. 
 
 
 
