@@ -45,7 +45,7 @@ Before going into the actual analysis of the data with the NaNs for 9th graders 
 *New District Summary:*
 ![Screen Shot 2021-06-06 at 6 43 08 PM](https://user-images.githubusercontent.com/83378141/120942472-27b00180-c6f7-11eb-81a3-908381092b00.png)
 
-As we can observe, there is a slight difference in the results for the district summary. The academic dishonesty of 9th graders at Thomas High School made the average go up by a little. Nevertheless, once I replaced their results with NaNs it can be seen that the average scores, passing percentages and overall passing percentages went down by no more than 0.3. In conclusion, as the district summary is such a broad analysis it was not affected significantly. 
+As we can observe, there is a slight difference in the results for the district summary. The academic dishonesty of 9th graders at Thomas High School made the overall results go down by a little. Once I replaced their results with NaNs, the average scores, passing percentages and overall passing percentages went down by no more than 0.3. In conclusion, as the district summary is such a broad analysis it was not affected significantly because the scores from the students we replaced consisted of just a small fraction of the overall analysis of 15 schools. 
 
 - How is the school summary affected? 
 
@@ -96,6 +96,8 @@ Again, Thomas High School kept on having 1,635 students which makes them a mediu
 And last but not least, the results for the school type did not change at all. This was due to the fact that Thomas High School was categorized in the Charter school type along other 7 schools. Their ninth graders were just a small group relative to all the students in Charter schools, making the overall results stay untouched. 
 
 ## Summary
+
+In conclusion, replacing the ninth graders' results at Thomas High School with NaNs generated 4 overall changes to the updated School District Analysis. The first one consisted on a slight alteration in the district summary. As the these students just composed a small portion of the entire population of students from 15 different schools, the averages and passing percentages were decreased by no more than 0.3 units. Moreover, we were able to see a big change in the per school summary as we were analyzing each school independently. For Thomas H.S., replacing 9th graders' scores now consisted on almost 30% of their population of students. Their passing percentages increased by a lot because 9th graders were bringing averages and passing percentages down because most of them had grades below 70. Therefore, the top schools graph was also affected as Thomas H.S. was now in second plaace with an overall passing percentage of 90.6%. And lastly, the graph that was also affected by this change was the average math and reading scores per grade. In this case, the mean could not be calculated for the 9th graders in Thomas H.S. again because all of the scores were replaced with NaNs so the graph displayed the *Not a Number error*.
 
 
 
